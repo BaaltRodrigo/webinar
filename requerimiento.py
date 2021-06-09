@@ -10,3 +10,6 @@ def funcionDesdeVisual():
 
 def funcionDeError():
     print("Esto genera error en merge")
+
+def funcionProfe():
+    print("Respondan la Encuesta de Asignatura!")
