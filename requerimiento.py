@@ -2,8 +2,8 @@
 def funcion1(parametro):
     print(parametro)
 
-def funcion2(otroParametro):
-    print(otroParametro)
+def solucionDeError():
+    print("Solucione un error")
 
 def funcionDesdeVisual():
     print("Hola mundo!")
